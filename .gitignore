@@ -1,0 +1,7 @@
+/target
+.env
+.env.*
+*.db
+*.db-journal
+*.log
+*.txt
